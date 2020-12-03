@@ -10,7 +10,7 @@ Based on variety of parameters predicting total gross of large budget films. All
 
 * [Summary](#Summary)
 * [Technologies](#technologies)
-* [Metis](#metis)
+
 
 ## Summary
 
